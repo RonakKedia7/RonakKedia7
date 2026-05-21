@@ -4,15 +4,19 @@
 
 ### Computer Science Undergraduate @ NIT Rourkela
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronak_Kedia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakkedia7)
-[![Instagram](https://img.shields.io/badge/Instagram-ronak__kedia37-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ronak_kedia37)
-[![Gmail](https://img.shields.io/badge/Gmail-ronakkedia0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronakkedia0@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakkedia7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ronak_kedia37)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ronakkedia0@gmail.com)
+
+</div>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```ts
 const ronak = {
@@ -47,7 +51,7 @@ const ronak = {
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
